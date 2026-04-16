@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.dll
+
+# C++ Build outputs
+*.obj
+*.exe
+*.o
+*.out
+*.app
+build/
+bin/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
